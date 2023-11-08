@@ -1,0 +1,4 @@
+Jose Salcedo
+number of nodes: 9328.0 
+height: 34.0
+Nodes not used based on max num of nodes 2147483647

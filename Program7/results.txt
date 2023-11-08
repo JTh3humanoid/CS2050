@@ -1,0 +1,9 @@
+Jose Salcedo
+Selection sort nano seconds to sort 20000 integers= 3.409882E8
+Bubble sort nano seconds to sort 20000 integers= 8.58507E8
+System sort nano seconds to sort 20000 integers= 1.79781E7
+Insert sort nano seconds to sort 20000 integers= 1.391915E8
+Selection nano seconds to sort 10000 Strings= 3.693863E8
+Bubble Sort nano seconds to sort 10000 Strings= 3.026623E8
+System sort nano seconds to sort 10000 Strings= 1.04792E7
+Insert sort nano seconds to sort 10000 Strings= 1.477745E8
